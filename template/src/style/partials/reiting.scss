@@ -1,0 +1,37 @@
+.reiting{
+	margin-top: 25px;
+
+.reiting__form-group{
+
+}
+.reiting__button{
+
+}
+.reiting--input{ 
+border-left: 1px solid #000;
+border-top: 1px solid #000;
+border-bottom: 1px solid #000;
+border-radius: 0px;
+color: #000;
+background: #fff;
+height: 41px;
+}
+.reiting__addon{
+	background: #dadada;
+	border-radius: 0px;
+border-top: 1px solid #000;
+border-bottom: 1px solid #000;
+border-right:  1px solid #000;
+color: #fff;
+    height: 41px;
+    width: 66px;
+    font-size: 23px;
+&:hover{
+	background: #000;
+}
+}
+}
+.reiting__table{
+	margin-top: 20px;
+	
+}

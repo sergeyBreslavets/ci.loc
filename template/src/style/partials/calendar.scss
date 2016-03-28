@@ -1,0 +1,31 @@
+//для большого календаря
+
+.ui-datepicker{
+	
+    border-radius: 0px;
+
+}
+.ui-datepicker td a{
+	text-align: center;
+}
+
+.ui-datepicker-calendar .ui-datepicker-current-day a{
+    color: #009fe3 !important;
+    font-size: 20px;
+    font-weight: bold !important;
+}
+
+.ui-datepicker-calendar a{
+    color: rgba(0, 0, 0, 1) !important;
+    font-weight: bold;
+}
+.ui-datepicker-today a{
+    color: #009fe3 !important;
+}
+.ui-datepicker-calendar th  {
+    text-align: center;
+
+}
+.ui-datepicker-calendar span {
+    color: #000;
+}

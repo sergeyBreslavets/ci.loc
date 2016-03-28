@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/cityindex.d1gitable.ru/webstat"
+AuthUserFile /var/www/dev/data/etc/779313.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
