@@ -3,7 +3,7 @@
 /admin/config.php
 /_config.php
 /admin/_config.php
-/electronik
+/source_template
 #template
 
 
@@ -40,7 +40,7 @@
 
 !/data/index.html
 
-# Flags 
+# Flags
 # remove sharp char if you want to add flags to gitignore
 # /flags/*
 
